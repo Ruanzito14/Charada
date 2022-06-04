@@ -1,0 +1,7 @@
+{
+  "name": "prjCharada",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
